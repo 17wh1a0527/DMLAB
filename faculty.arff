@@ -5,7 +5,7 @@
 @attribute name string
 @attribute dept {cse,ece,it,eee}
 @attribute age numeric
-@attribute phone numeric
+@attribute phone string
 @attribute salary numeric
 @attribute joiningdate date "yyyy-MM-dd"
 
